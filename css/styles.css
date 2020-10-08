@@ -1,0 +1,71 @@
+body{
+  background-color: #fcfefe;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+hr{
+  border-color: #c06c84;
+  border-style: dotted none none;
+  border-width: 4px;
+  padding-top: 10px;
+  width: 70%;
+}
+.intern_hr{
+  border-color: #8d6262;
+  border-style: dotted none none;
+  border-width: 4px;
+  width:40%
+}
+h2{
+  color: #e84545;
+}
+.links{
+  color: black;
+}
+.Head{
+  background-color: #c79ecf;
+  padding-top: 100px;
+  position: relative;
+}
+.head-intro{
+  font-family: 'Sacramento', cursive;
+  font-size: 300%;
+  font-style: italic;
+  margin:0;
+}
+.head-explain{
+  font-family: sans-serif;
+  margin:0;
+}
+/*Middle Container*/
+.middle-container{
+  padding-top: 20px;
+}
+/*Clouds & Mountain style*/
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+.bottom-cloud{
+  left:300px;
+  position:absolute;
+}
+.mountain{
+  margin-bottom: 0;
+}
+/*Skills Style*/
+.skill-img{
+  width:12%;
+}
+.intern-img{
+  width:8%;
+}
+#Skills_row{
+  margin-left: auto;
+  margin-right: auto;
+}
+.internships{
+  padding-bottom: 20px;
+}
